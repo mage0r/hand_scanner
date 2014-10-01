@@ -16,7 +16,9 @@ https://github.com/markruys/arduino-Max72xxPanel
 
 CREDITS
 ------------
-This project was designed by John Spencer, Gil Poznanski and Gavin Jackson
+This project was designed and managed by Gil Poznanski.
+
+Additional support from John Spencer and Gavin Jackson
 
 SPECIAL THANKS
 ------------
@@ -35,5 +37,8 @@ LICENSE
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 The "license" sub-folder also contains a copy of this license in plain text format.
 
-Copyright John Spencer 2014
+Copyright Gil Poznanski 2014
+skyler101prop@gmail.com
+
+Published with Permission, John Spencer 2014
 john.spencer.9000@gmail.com
