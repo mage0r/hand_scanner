@@ -10,8 +10,7 @@ https://github.com/adafruit/Adafruit-GFX-Library
 https://github.com/markruys/arduino-Max72xxPanel
 
 
-![hand_scanner](https://raw2.github.com/mage0r/hand_scanner/master/Photos/download_20140519_174718.jpeg)
-
+![hand_scanner](https://raw.githubusercontent.com/mage0r/hand_scanner/master/Photos/download_20140519_174718.jpeg)
 
 
 CREDITS
